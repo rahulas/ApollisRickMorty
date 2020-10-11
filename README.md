@@ -1,1 +1,1 @@
-# RickAndMorty - Apollis Interview Task
+# ApollisRickMorty - Apollis Interview Task
