@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.AppBarConfiguration
+import androidx.navigation.ui.setupWithNavController
 import com.rahul.rickandmorty.R
 import com.rahul.rickandmorty.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
